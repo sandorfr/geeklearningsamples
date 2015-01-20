@@ -1,0 +1,12 @@
+{
+  "name": "az-bunyan-intro",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Cyprien Autexier <sandorfr@autexier.me> (https://github.com/sandorfr)",
+  "license": "MIT",
+  "dependencies": {
+    "az-bunyan": "0.0.3",
+    "bunyan": "^1.3.2"
+  }
+}
